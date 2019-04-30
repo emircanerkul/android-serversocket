@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme.Base" parent="Base.Theme.MaterialComponents.Light.Dialog.FixedSize">
+        <item name="colorAccent">#02BEC4</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base"></style>
+</resources>
